@@ -1,6 +1,6 @@
 # L64Decode
 
-A Python script to decode Farming Simulator 2019 .l64 files to LuaJIT bytecode files.
+A Python script to decode .l64 files to LuaJIT bytecode files.
 
 
 # Requirements
